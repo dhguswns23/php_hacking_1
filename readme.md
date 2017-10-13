@@ -14,3 +14,5 @@ Problem is implemented in PHP.
 ?>
 ```
 
+## One of answer
+`0e46498610456030`
